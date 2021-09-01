@@ -1,5 +1,5 @@
 # codefun_discord_bot
-A bot that uses Codefun's API to do various stuffs
+A Discord bot that utilizes Codefun's API
 
 ## Quick Start Guide
 1. You'll need to download the whole thing, including all those .json files
